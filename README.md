@@ -3,44 +3,60 @@ Hi, I’m Bishal Das, a BBA student specializing in Business Analytics.
 
 <img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 I am interested in analyzing data, finding business insights, and helping organizations make better decisions using data-driven strategies.
+
 🎓 Degree Specialization
 Bachelor of Business Administration (BBA)
-
-
 Specialization: Business Analyst / Business Analytics
+
 📚 Core Areas of Study
+
 Business Analytics
+
 Data Analysis & Visualization
+
 Financial Management
+
 Marketing Analytics
+
 Operations Management
+
 Business Intelligence
+
 Statistics for Business
+
 Decision-Making Techniques
 🛠️
 Used Excel and basic Python to identify target customer groups.
+
 Inventory Analysis (IBM Cognos)
+
 Developed reports and KPIs for stock management and decision-making.
+
 (Add your real project lin Skills & Tools
+
 💻 Analytical Tools
+
 Microsoft Excel (Advanced)
 Power BI
 Tableau
 🧑‍💻 Programming & Data Skills
 Python (Basic Data Analysis)
 SQL (Database Management)
+
 📊 Business Skills
 Data Interpretation
 Report Generation
 KPI Analysis
 Forecasting
 Problem Solving
+
 🚀 Projects
 📌 Sample Projects
 Sales Data Analysis Dashboard
 Created using Power BI to visualize sales trends and performance.
 Customer Segmentation Analysisks here)
 📈 Learning Goals
+
 Improve advanced analytics skills
 Learn machine learning for business
 Gain expertise in data visualization tools
