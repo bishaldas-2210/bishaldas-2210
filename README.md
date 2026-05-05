@@ -1,8 +1,7 @@
 ## Hi there 👋
 Hi, I’m Bishal Das, a BBA student specializing in Business Analytics.
 
-https://www.michiganstateuniversityonline.com/resources/business-analytics/what-is-business-analytics/
-
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 I am interested in analyzing data, finding business insights, and helping organizations make better decisions using data-driven strategies.
 🎓 Degree Specialization
 Bachelor of Business Administration (BBA)
